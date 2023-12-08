@@ -1,0 +1,14 @@
+{
+  "name": "@mzaini30/gpm",
+  "version": "0.0.1",
+  "description": "Github Packages Manager",
+  "bin": {
+    "gpm": "./app.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zx": "^7.2.3"
+  }
+}
