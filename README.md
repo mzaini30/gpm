@@ -4,7 +4,7 @@ Github Packages Manager
 ## Instalasi
 
 ```bash
-npm i degit @mzaini30/gpm
+npm i -g degit @mzaini30/gpm
 ```
 
 ## Download Github Repo

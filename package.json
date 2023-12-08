@@ -1,6 +1,6 @@
 {
   "name": "@mzaini30/gpm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Github Packages Manager",
   "bin": {
     "gpm": "./app.mjs"
