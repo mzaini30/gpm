@@ -15,7 +15,11 @@ Contoh, di sini kita akan mendownload repo `mzaini30/tes`:
 gpm mzaini30/tes
 ```
 
-Misalnya ingin mendownload repo 
+Misalnya ingin mendownload repo `mzaini30/tes` dan `mzaini30/halo`:
+
+```bash
+gpm mzaini30/tes mzaini30/halo
+```
 
 ## Download Semua Repo Jika Sudah Ada `gpm.txt`
 
